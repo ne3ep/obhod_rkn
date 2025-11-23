@@ -3,7 +3,7 @@
 Без лишних слов. 
 1. Если вы вообще не знаете как обходить блокировки, кроме VPN с Play Маркета, то тык сюда.
 2. Если у вас все работает и хочется улучшить/сделать постабильнее, то тык сюда. 
-3. Если вы уже шарите и вам нужны всякие доки и т.д., то тык сюда.
+3. Если вы уже шарите и вам нужны всякие доки, скрипты и т.д., то тык сюда.
 
 <sub>Если есть предложения или исправления, открывайте Issue или Pell request</sub>
 
@@ -28,3 +28,17 @@
 Хз что вам писать, по поводу запрета, но пару ссылок хотя бы покидаю
 - Для любимого пингвина на десктоп — [тык](https://github.com/kartavkun/zapret-discord-youtube) или [тык](https://github.com/Sergeydigl3/zapret-discord-youtube-linux)
 - Скрипт для VPS серверов — [тык](https://github.com/IndeecFOX/zapret4rocket)
+
+## [ByeByeDPI](https://github.com/romanvht/ByeByeDPI) (Android)
+Основное приложение по типу дурилок DPI на Android
+- Скачать — [тык](https://github.com/romanvht/ByeByeDPI/releases)
+- Гайд — [тык](https://github.com/BDManual/ByeByeDPI-Manual/blob/main/start.md)
+
+## Дополнение
+Установка zapret на роутер, чтобы на все устройства сразу работало:
+- на OpenWRT — [тык](https://github.com/remittor/zapret-openwrt)
+- на Keenetic OS — [тык](https://telegra.ph/Nastrojka-zapret-ot-bol-van-na-Keentic-04-27)
+
+Ну и из-за уважения к Vakdik`у:
+- GoodByeDPI — [тык](https://github.com/ValdikSS/GoodbyeDPI)
+
