@@ -54,12 +54,33 @@
 Самый популярный прокси протокол на данный момент. Есть множество приложений под самые разные хотелки. Можно искать ключики и использовать бесплатно, но всё-таки советую настроить самостоятельно, арендовав VPS сервер или купив подписку.
 
 ### Прокси-клиенты:
-
+***Советую большинству Happ — [тык](https://github.com/Happ-proxy/happ-desktop).***
+ 
 **!!! При использовании Clash/Mihomo клиентов возможно большое потребление аккумулятора, так что сами решайте, что использовать на телефонах.**
-- **Happ — [тык на скачивание](https://github.com/Happ-proxy/happ-desktop). Довольно крутой, использую на телефоне именно его. Впринципе 97% юзеров его хватает**
-- Список клиентов 1 — [тык](https://docs.rw/docs/clients)
-- Список клиентов 2 — [тык](https://t.me/protocol_vpn/27397/468912)
+### 📱 Android
 
+‣ Mihomo:
+- Clash meta for Android [GitHub](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+- FlClash [GitHub](https://github.com/chen08209/FlClash/releases)
+- FlClashX (форк FlClash с улучшениями) [Github](https://github.com/pluralplay/FlClashX/)
+- Clash Mi [GitHub](https://github.com/KaringX/clashmi)
+
+‣ X-Ray:
+- Happ [Google Play](https://play.google.com/store/apps/details?id=com.happproxy) [GitHub](https://github.com/Happ-proxy/happ-android/releases)
+- OneXray [Google Play](https://play.google.com/store/apps/details?id=net.yuandev.onexray) [Github](https://github.com/OneXray/OneXray)
+- V2rayNG [GitHub](https://github.com/2dust/v2rayNG/releases)
+- V2Box [Google Play](https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box)
+- Simple GUI client by SaeedDev94 [GitHub](https://github.com/SaeedDev94/Xray)
+- SimpleXray [GitHub](https://github.com/lhear/SimpleXray)
+
+‣ Sing-Box:
+- sing-box [Google Play](https://play.google.com/store/apps/details?id=io.nekohasekai.sfa) [GitHub](https://github.com/SagerNet/sing-box/releases)
+- Husi [GitHub](https://github.com/xchacha20-poly1305/husi/releases)
+- NekoBox [GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+- Karing [GitHub](https://github.com/KaringX/karing/releases)
+- Hiddify [Google Play](https://play.google.com/store/apps/details?id=app.hiddify.com) [GitHub](https://github.com/hiddify/hiddify-app/releases) (Нет обновлений с Октября 2024)
+
+  
 ### Откуда брать ключи
 Ключ — это ссылка deeplink формата, в которую входят данные для подключения. Либо вводиться вручную, либо благодаря системе подписок автоматом парсится из обычной ссылки.
 ## <img src="/data/unsecure.svg" alt="Logo" width="30"> SOCKS 4/5
