@@ -57,12 +57,12 @@
 ***Советую большинству Happ — [тык](https://github.com/Happ-proxy/happ-desktop).***
  
 **!!! При использовании Clash/Mihomo клиентов возможно большое потребление аккумулятора, так что сами решайте, что использовать на телефонах.**
-### 📱 Android
+#### 📱 Android
 
 ‣ Mihomo:
 - Clash meta for Android [GitHub](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
 - FlClash [GitHub](https://github.com/chen08209/FlClash/releases)
-- FlClashX (форк FlClash с улучшениями) [Github](https://github.com/pluralplay/FlClashX/)
+- FlClashX [Github](https://github.com/pluralplay/FlClashX/)
 - Clash Mi [GitHub](https://github.com/KaringX/clashmi)
 
 ‣ X-Ray:
@@ -80,9 +80,52 @@
 - Karing [GitHub](https://github.com/KaringX/karing/releases)
 - Hiddify [Google Play](https://play.google.com/store/apps/details?id=app.hiddify.com) [GitHub](https://github.com/hiddify/hiddify-app/releases) (Нет обновлений с Октября 2024)
 
-  
+### 📱 iOS
+
+‣ Mihomo:
+- Clash Mi [AppStore](https://apps.apple.com/ru/app/clash-mi/id6744321968)
+
+‣ X-Ray:
+- Happ [AppStore](https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973)
+- OneXray [AppStore](https://apps.apple.com/us/app/onexray/id6745748773) [Github](https://github.com/OneXray/OneXray)
+- Streisand [AppStore](https://apps.apple.com/ru/app/streisand/id6450534064) 
+- V2rayTun [AppStore](https://apps.apple.com/ru/app/v2raytun/id6476628951)
+- V2Box [AppStore](https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690)
+
+‣ Sing-box:
+- sing-box [AppStore](https://apps.apple.com/ru/app/sing-box-vt/id6673731168)
+- Hiddify [AppStore](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532) (Нет обновлений с Октября 2024)
+- Karing [AppStore](https://apps.apple.com/ru/app/karing/id6472431552)
+
+‣ Другое:
+- Stash [AppStore](https://apps.apple.com/ru/app/stash-rule-based-proxy/id1596063349) [Wiki](https://stash.wiki/) ($7)
+- ShadowRocket [AppStore](https://apps.apple.com/ru/app/shadowrocket/id932747118) ($3)
+- Loon [AppStore](https://apps.apple.com/ru/app/loon/id1373567447?platform=iphone) ($8)
+
+### 💻 Windows
+
+‣ Mihomo:
+- FlClashX [Github](https://github.com/pluralplay/FlClashX/)
+- Koala Clash  [Github](https://github.com/coolcoala/clash-verge-rev-lite)
+- Prizrak-Box [GitHub](https://github.com/legiz-ru/Prizrak-Box)
+- Clash Verge [GitHub](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+- FlClash [GitHub](https://github.com/chen08209/FlClash/releases)
+- Clash Mi [GitHub](https://github.com/KaringX/clashmi)
+
+‣ X-Ray:
+- V2rayN [GitHub](https://github.com/2dust/v2rayN/releases)
+- OneXray [Github](https://github.com/OneXray/OneXray)
+- Happ [GitHub](https://github.com/Happ-proxy/happ-desktop/releases)
+
+‣ Sing-box:
+- Karing [GitHub](https://github.com/KaringX/karing/releases)
+- NekoRay от throneproj [GitHub](https://github.com/throneproj/Throne/releases)
+- Hiddify [GitHub](https://github.com/hiddify/hiddify-app/releases) (Нет обновлений с Октября 2024)
+
+###
 ### Откуда брать ключи
 Ключ — это ссылка deeplink формата, в которую входят данные для подключения. Либо вводиться вручную, либо благодаря системе подписок автоматом парсится из обычной ссылки.
+
 ## <img src="/data/unsecure.svg" alt="Logo" width="30"> SOCKS 4/5
 Очень древний прокси протокол, который работает только благодаря его распространенности среди корпоративных сетях и т.п. Стоит рассматривать как ЗАПАСНОЙ ВАРИАНТ на всякий случай, так как БЕЗОПАСНЫМ ЕГО НАЗВАТЬ НИКАК НЕЛЬЗЯ.
 Можно:
@@ -103,3 +146,6 @@
     - [Telegram 1](https://t.me/Socks_Proxy_List)
     - [Telegram 2](https://t.me/freeproxysocks5)
 - Скачать готовое приложения из Play Market, которое с вероятностью 96% работать не будет
+# Источники
+1. [ТГК Обсуждение VPN-протоколов](https://t.me/protocol_vpn)
+2. 
