@@ -1,5 +1,5 @@
 > [!WARNING]
->***!!! Не доделано!!!***
+>***!!! Не доделано и доделано не будет!!!***
 
 [![Hits](https://hits.sh/github.com/ne3ep/obhod_rkn.svg?label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2&color=13a6da&labelColor=0e5469)](https://hits.sh/github.com/ne3ep/obhod_rkn/)
 # Начать с чего-то надо
